@@ -1,0 +1,14 @@
+C:\Users\Littl\OneDrive\Documentos\While\While1\bin\Debug\net10.0\While1.exe
+C:\Users\Littl\OneDrive\Documentos\While\While1\bin\Debug\net10.0\While1.deps.json
+C:\Users\Littl\OneDrive\Documentos\While\While1\bin\Debug\net10.0\While1.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\While\While1\bin\Debug\net10.0\While1.dll
+C:\Users\Littl\OneDrive\Documentos\While\While1\bin\Debug\net10.0\While1.pdb
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.dll
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\refint\While1.dll
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.pdb
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\While1.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\While\While1\obj\Debug\net10.0\ref\While1.dll
