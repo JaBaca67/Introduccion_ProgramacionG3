@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\bin\Debug\net10.0\arreglo1.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\bin\Debug\net10.0\arreglo1.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\bin\Debug\net10.0\arreglo1.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\bin\Debug\net10.0\arreglo1.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\bin\Debug\net10.0\arreglo1.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\refint\arreglo1.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\arreglo1.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\arreglo1\obj\Debug\net10.0\ref\arreglo1.dll
