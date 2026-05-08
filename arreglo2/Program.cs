@@ -10,7 +10,7 @@ for (int i = 0; i < notas.Length; i++)
     if (countErrors >= 3)
     {
         Console.ForegroundColor = ConsoleColor.DarkRed;
-        Console.WriteLine("Te hace falta matria gris. Respia y oxigena y vuelve a nacer. Adios. imbecil, voy a destruir la computadora.");
+        Console.WriteLine("Te hace falta matria gris. Respia y oxigena y vuelve a nacer.");
         Console.ResetColor();
     }
     try

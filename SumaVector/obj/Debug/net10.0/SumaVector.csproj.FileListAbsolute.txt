@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\bin\Debug\net10.0\SumaVector.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\bin\Debug\net10.0\SumaVector.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\bin\Debug\net10.0\SumaVector.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\bin\Debug\net10.0\SumaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\bin\Debug\net10.0\SumaVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\refint\SumaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\SumaVector.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\SumaVector\obj\Debug\net10.0\ref\SumaVector.dll

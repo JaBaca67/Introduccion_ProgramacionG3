@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\bin\Debug\net10.0\RestaVector.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\bin\Debug\net10.0\RestaVector.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\bin\Debug\net10.0\RestaVector.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\bin\Debug\net10.0\RestaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\bin\Debug\net10.0\RestaVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\refint\RestaVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\RestaVector.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\RestaVector\obj\Debug\net10.0\ref\RestaVector.dll
