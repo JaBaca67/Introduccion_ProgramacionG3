@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\bin\Debug\net10.0\1_Temperatura.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\bin\Debug\net10.0\1_Temperatura.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\bin\Debug\net10.0\1_Temperatura.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\bin\Debug\net10.0\1_Temperatura.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\bin\Debug\net10.0\1_Temperatura.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\refint\1_Temperatura.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\1_Temperatura.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\1_Temperatura\obj\Debug\net10.0\ref\1_Temperatura.dll

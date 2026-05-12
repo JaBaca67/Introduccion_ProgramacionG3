@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\bin\Debug\net10.0\VentasTienda.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\bin\Debug\net10.0\VentasTienda.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\bin\Debug\net10.0\VentasTienda.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\bin\Debug\net10.0\VentasTienda.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\bin\Debug\net10.0\VentasTienda.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\refint\VentasTienda.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\VentasTienda.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\VentasTienda\obj\Debug\net10.0\ref\VentasTienda.dll

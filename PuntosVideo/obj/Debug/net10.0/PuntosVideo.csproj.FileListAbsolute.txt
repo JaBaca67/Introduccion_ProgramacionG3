@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\bin\Debug\net10.0\PuntosVideo.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\bin\Debug\net10.0\PuntosVideo.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\bin\Debug\net10.0\PuntosVideo.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\bin\Debug\net10.0\PuntosVideo.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\bin\Debug\net10.0\PuntosVideo.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\refint\PuntosVideo.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\PuntosVideo.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\PuntosVideo\obj\Debug\net10.0\ref\PuntosVideo.dll

@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\bin\Debug\net10.0\MagnitudVector.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\bin\Debug\net10.0\MagnitudVector.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\bin\Debug\net10.0\MagnitudVector.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\bin\Debug\net10.0\MagnitudVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\bin\Debug\net10.0\MagnitudVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\refint\MagnitudVector.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\MagnitudVector.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\MagnitudVector\obj\Debug\net10.0\ref\MagnitudVector.dll

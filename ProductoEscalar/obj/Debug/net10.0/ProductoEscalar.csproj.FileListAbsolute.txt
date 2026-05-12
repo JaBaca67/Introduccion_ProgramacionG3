@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\refint\ProductoEscalar.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\ProductoEscalar\obj\Debug\net10.0\ref\ProductoEscalar.dll

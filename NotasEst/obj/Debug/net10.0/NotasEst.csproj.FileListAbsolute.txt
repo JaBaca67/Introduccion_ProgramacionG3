@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\bin\Debug\net10.0\NotasEst.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\bin\Debug\net10.0\NotasEst.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\bin\Debug\net10.0\NotasEst.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\bin\Debug\net10.0\NotasEst.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\bin\Debug\net10.0\NotasEst.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\refint\NotasEst.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\NotasEst.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\NotasEst\obj\Debug\net10.0\ref\NotasEst.dll

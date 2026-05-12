@@ -1,0 +1,15 @@
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\bin\Debug\net10.0\Inventario_Lib.exe
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\bin\Debug\net10.0\Inventario_Lib.deps.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\bin\Debug\net10.0\Inventario_Lib.runtimeconfig.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\bin\Debug\net10.0\Inventario_Lib.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\bin\Debug\net10.0\Inventario_Lib.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.AssemblyInfoInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.AssemblyInfo.cs
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.sourcelink.json
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\refint\Inventario_Lib.dll
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.pdb
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\Inventario_Lib.genruntimeconfig.cache
+C:\Users\Littl\OneDrive\Documentos\Int.Programacion\Inventario_Lib\obj\Debug\net10.0\ref\Inventario_Lib.dll

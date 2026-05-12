@@ -53,3 +53,4 @@ for (int i = 0; i < RestaVector.Length; i++)
     Console.WriteLine($"Valor {i + 1}: {RestaVector[i]}");
     Console.ResetColor();
 }
+
